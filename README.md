@@ -13,7 +13,7 @@
 </p>
 
 
-## Core CS ![AlgorithmsPoints]
+## Core CS 
 ### General Programming
 - [Basic Programming](./README_V2.md#basic-programming)
 - [Object-Oriented Programming](./README_V2.md#object-oriented-programming)
